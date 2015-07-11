@@ -3,16 +3,23 @@
 				margin-top:	0;
 				padding:	20px	20px	20px	40px;
 }
-.page-header	h1,	.page-header	h1	a,	.page-header	h1	a:visited,	.page-header	h1	a:active	{
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
 				color:	#ffffff;
 				font-size:	36pt;
 				text-decoration:	none;
 }
+
 .content	{
 				margin-left:	40px;
 }
 h1,	h2,	h3,	h4	{
 				font-family:	'Lobster',	cursive;
+}
+
+small a, small a:visited, small a:active {
+				text-decoration: underline;
+				color: #ffffff;
+				font-size: smaller;
 }
 .date	{
 				float:	right;
