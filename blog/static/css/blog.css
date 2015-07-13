@@ -43,3 +43,7 @@ small a, small a:visited, small a:active {
 .post	h1	a,	.post	h1	a:visited	{
 				color:	#000000;
 }
+
+.comment {
+	margin: 20px 0px 20px 20px;
+}
